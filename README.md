@@ -1,2 +1,2 @@
 # leetcode-Medium
-Top Interview Questions - LeetCode
+Top Interview Question (python)
